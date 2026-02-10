@@ -1,4 +1,4 @@
-Requisitos Funcionais
+# Requisitos Funcionais
 
 - Clientes poderão consultar filmes e sessões disponíveis em diferentes salas e locais.
 - Clientes poderão reservar assentos e obter ingressos digitais ou impressos.
@@ -6,7 +6,7 @@ Requisitos Funcionais
 - O administrador poderá selecionar títulos dessa lista e disponibilizá-los em suas salas.
 - O programa de fidelidade deve aplicar regras especiais de reserva e benefícios.
 
-Requisitos não funcionais
+# Requisitos não funcionais
 
 - O sistema deve controlar a disponibilidade de assentos em tempo real
 - O sistema deve gerar relatórios de vendas e renda por sessão
