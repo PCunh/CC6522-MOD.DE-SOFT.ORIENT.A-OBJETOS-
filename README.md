@@ -13,15 +13,16 @@ locais, garantindo que os assentos não sejam reservados em duplicidade e que o 
 disponibilidade seja confiável.
 
 Além disso, a rede de cinemas possui um programa de fidelidade com benefícios especiais:
-• Clientes podem reservar os melhores assentos se realizarem a compra com até dois dias de 
+- Clientes podem reservar os melhores assentos se realizarem a compra com até dois dias de 
 antecedência.
-• Cada cliente cadastrado no programa recebe um ingresso gratuito no mês de seu 
+- Cada cliente cadastrado no programa recebe um ingresso gratuito no mês de seu 
 aniversário.
+
 O sistema deve ainda contemplar a comercialização de ingressos de meia-entrada, conforme 
 legislação vigente, para:
-• Estudantes devidamente identificados.
-• Pessoas maiores de 65 anos.
-• Professores da rede pública e privada.
+- Estudantes devidamente identificados.
+- Pessoas maiores de 65 anos.
+- Professores da rede pública e privada.
 
 # Escopo
 - Clientes poderão consultar filmes e sessões disponíveis em diferentes salas e locais.
