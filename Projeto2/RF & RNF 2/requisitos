@@ -1,4 +1,30 @@
 # Requisitos funcionais
-
+- o sistema deve permitir o cadastro de usuários contendo nome, e-mail, telefone, CPF e forma de pagamento
+- O sistema deve permitir login e logout de usuários e admin
+- O sistema deve permitir que o usuário visualize veículos disponíveis em um mapa, incluindo localização e nível de bateria
+- O sistema deve permitir que o usuário reserve um veículo por até 5 minutos
+- O sistema deve permitir o desbloqueio imediato via leitura de QR Code
+- O sistema deve registrar o horário de início e fim de viagem
+- O sistema deve registrar a posição GPS do veículo a cada minuto durante a viagem
+- O sistema deve controlar automaticamente os estados: Disponível, Reservado, Em uso, Manutenção, Bateria crítica e Recolhido
+- O sistema deve permitir que admin definam modelos de bicicleta e patinete
+- O sistema deve calcular o valor da corrida utilizando: Taxa fixa de desbloqueio; valor por minuto; descontos de pacotes bronze, prata e ouro; descontos acadêmicos de 20%
+- O sistema deve processar pagamentos via cartão de crédito e carteira digital
+- O sistema deve validar via GPS se o veículo foi estacionado em área permitida
+- O sistema deve permitir que usuários que estacionarem em áreas de alta demanda devem receber créditos
+- O sistema deve gerar relatórios: utilização por região, faturamento diário e veículos parados há mais de 24 horas
+- O sistema deve gerar ordens de serviço automaticamente para veículos: Com bateria abaixo de 10% e reportados com defeito
+- O sistema deve limitar eletronicamente a velocidade em zonas silenciosas
+- O sistema deve permitir que o usuário consulte viagens anteriores
 
 # Requisitos não funcionais
+- O sistema deve responder ás consultas em até 2 segundos
+- O sistema deve possuir disponibilidade mínima de 99,5%
+- Os dados de pagamento devem ser criptografados
+- O sistema deve suportar milhares de veículos simultaneamente
+- O sistema deve garantir integridade das informações de viagem
+- Deve funcionar em Android e IOS
+- A interface deve ser intuitiva e acessível
+- O sistema deve seguir regulementações municipais
+- As informações GPS devem possuir atualizações contínuas
+- O sistema deve possuir arquitetura modular
